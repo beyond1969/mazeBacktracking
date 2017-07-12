@@ -1,4 +1,6 @@
-/* 2012726037 ±Ë«ı¡ﬂ */
+/* made by Hyeokjung Kim			*/
+/* e-mail : beyond1969@gamil.com	*/
+
 #include <iostream>
 #include <fstream>
 /* movement */
